@@ -1,7 +1,7 @@
 # QLIP: A Dynamic Quadtree Vision Prior Enhances MLLM Performance Without Retraining
 **Kyle R. Chickering**, **Bangzhang Li**, **Muhao Chen**
 
-[Paper]()
+[Paper](https://arxiv.org/abs/2505.23004)
 
 ![A photograph of a bird in flight. The bird is covered in wonderfully bright plumage and is smoking a cigar.](./assets/abstract.png)
 
